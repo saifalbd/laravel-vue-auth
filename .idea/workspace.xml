@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3531d312-aa24-4180-9849-01dd15c0d69a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/app/Traits/avatarUpload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server" beforeDir="false" afterPath="$PROJECT_DIR$/server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PassportAuth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PassportAuth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app/Http/Controllers/PassportAuth/ThrottlesLoginsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Http/Controllers/PassportAuth/ThrottlesLoginsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/Profile.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/database/migrations/2020_03_15_071427_create_profiles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/database/migrations/2020_03_15_071427_create_profiles_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/passwords/confirm.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/passwords/email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/passwords/reset.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/register.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/auth/verify.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/emails/registerUser.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/emails/testMail.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/layouts/app.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/button.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/layout.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/message.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/panel.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/subcopy.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/table.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/html/themes/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/button.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/footer.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/header.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/layout.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/message.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/panel.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/subcopy.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/mail/text/table.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/vendor/notifications/email.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/storage/app/public/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/router.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/shims-tsx.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/shims-tsx.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/shims-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/shims-vue.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-auth/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-auth/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/config/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/app/Traits/avatarUpload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
+            <state relative-caret-position="864">
               <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#29#54#0#PHP" expanded="true" />
@@ -138,11 +64,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="384">
+                <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -191,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Http/Controllers/PassportAuth/ConfirmPasswordController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PassportAuth/ForgotPasswordController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PassportAuth/RegisterController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PassportAuth/ResetPasswordController.php" />
@@ -242,6 +191,7 @@
         <option value="$PROJECT_DIR$/server/config/filesystems.php" />
         <option value="$PROJECT_DIR$/server/app/Traits/avatarUpload.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -369,6 +319,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -376,16 +327,10 @@
               <item name="mailTester" type="b2602c69:ProjectViewProjectNode" />
               <item name="mailTester" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mailTester" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mailTester" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,18 +385,19 @@
       <workItem from="1584259004161" duration="2597000" />
       <workItem from="1584283644009" duration="5617000" />
       <workItem from="1584289486010" duration="5864000" />
-      <workItem from="1584629451081" duration="741000" />
+      <workItem from="1584629451081" duration="1819000" />
+      <workItem from="1584635321645" duration="86000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97354000" />
+    <option name="totallyTimeSpent" value="98518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31694403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -499,20 +445,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/app/Http/Controllers/PassportAuth/ConfirmPasswordController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/vendor/laravel/ui/auth-backend/ConfirmsPasswords.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/app/Mail/VerifyUserMail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
@@ -796,6 +728,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/Traits/avatarUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#29#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/app/Profile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -826,20 +785,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/app/Traits/avatarUpload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="e#29#54#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
