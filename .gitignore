@@ -1,0 +1,13 @@
+/server/node_modules
+/vue-auth/node_modules
+/public/hot
+/server/public/storage
+/server/storage/*.key
+/server/vendor
+/server/.env
+/server/.env.backup
+/server/.phpunit.result.cache
+/server/Homestead.json
+/server/Homestead.yaml
+/server/npm-debug.log
+/server/yarn-error.log
